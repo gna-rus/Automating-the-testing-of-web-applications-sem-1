@@ -2,4 +2,4 @@ username: NV12
 passwd: 202f5d8c2c
 url_login: https://test-stand.gb.ru/gateway/login
 url_post: https://test-stand.gb.ru/api/posts
-url_post1: https://test-stand.gb.ru/user/profile
+url_profil: https://test-stand.gb.ru/user/profile
